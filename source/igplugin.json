@@ -1,0 +1,10 @@
+{
+  "id": "Plugin_EriCodec",
+  "name": "Entis ERI Codec",
+  "description": "Native codec plugin that decodes Entis rasterized image (ERI/EMI) files used by Japanese visual novel engines, including lossless and DCT/LOT lossy variants.",
+  "version": "1.0.0",
+  "author": "capacitor1",
+  "website": "https://github.com/capacitor1/ImageGlass-Eri-Plugin",
+  "kind": "Codec",
+  "executable": "EriCodec.dll"
+}
